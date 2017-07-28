@@ -1,0 +1,6 @@
+Todo list (ordered in sinking priority) :
+=========================================
+
+ * Add more sophisticated AI strategies
+
+ * Add netplay

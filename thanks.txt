@@ -1,0 +1,32 @@
+"Thank You" goes to the following people:
+======================
+
+ * m0ns00n
+   Hogne Titlestad, m0ns00n@gmx.net
+   http://m0ns00n.fr.fm
+   Graphics
+
+ * Ernst Moritz Hahn, ernst.moritz.hahn@gmx.de
+   Coding
+
+ * Sven Velt, sven@velt.de
+   Manpage
+
+ * A. Schiffler, aschiffler@cogeco.ca
+   Zooming code taken from SDL_rotozoom, www.libsdl.org
+
+ * Philippe Lavoie, lavoie@zeus.genie.uottawa.ca
+   Sam Lantinga, slouken@libsdl.org
+   PNG/JPG code taken from SDL_image, www.libsdl.org
+
+ * Urs Streidl, urs@gigaperls.org
+   Tux image , http://www.gigaperls.org/linux/
+
+ * "Uriah" and "Gio"
+   Various sounds
+
+ * The Free Software Foundation for Truetype fonts.
+   http://savannah.nongnu.org/download/freefont/
+
+ * The people behind Blender
+   www.blender3d.com
